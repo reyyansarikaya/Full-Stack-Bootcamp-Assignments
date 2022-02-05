@@ -1,0 +1,9 @@
+[submodule "Week-1-Frontend-HTML-CSS-JavaScript"]
+	path = Week-1-Frontend-HTML-CSS-JavaScript
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-1-assignment-reyyansarikaya
+[submodule "Week-2-Frontend-Vue-Vuex"]
+	path = Week-2-Frontend-Vue-Vuex
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-2-assignment-reyyansarikaya
+[submodule "Week-3-TDD-UnitTests"]
+	path = Week-3-TDD-UnitTests
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-3-assignment-reyyansarikaya
